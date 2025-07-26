@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KeymanDeveloperProject>
+  <Options>
+    <Version>2.0</Version>
+    <BuildPath>$PROJECTPATH\build</BuildPath>
+    <CompilerWarningsAsErrors>False</CompilerWarningsAsErrors>
+    <WarnDeprecatedCode>True</WarnDeprecatedCode>
+  </Options>
+  <Files>
+    <File>
+      <Filename>ood-ALH.kmn</Filename>
+      <Filepath>source\ood-ALH.kmn</Filepath>
+      <FileVersion>0.1</FileVersion>
+      <FileType>.kmn</FileType>
+      <Details>
+        <Name>O'odham (Alvarez-Hale)</Name>
+        <Copyright>© 2025 emj</Copyright>
+      </Details>
+    </File>
+    <File>
+      <Filename>ood-ALH.kps</Filename>
+      <Filepath>source\ood-ALH.kps</Filepath>
+      <FileVersion>0.1</FileVersion>
+      <FileType>.kps</FileType>
+      <Details>
+        <Name>O'odham (Alvarez-Hale)</Name>
+        <Copyright>© 2025 emj</Copyright>
+      </Details>
+    </File>
+    <File>
+      <Filename>welcome.htm</Filename>
+      <Filepath>source\welcome.htm</Filepath>
+      <FileVersion></FileVersion>
+      <FileType>.htm</FileType>
+    </File>
+    <File>
+      <Filename>readme.htm</Filename>
+      <Filepath>source\readme.htm</Filepath>
+      <FileVersion></FileVersion>
+      <FileType>.htm</FileType>
+    </File>
+    <File>
+      <Filename>ood-ALH.ico</Filename>
+      <Filepath>source\ood-ALH.ico</Filepath>
+      <FileVersion></FileVersion>
+      <FileType>.ico</FileType>
+    </File>
+  </Files>
+</KeymanDeveloperProject>

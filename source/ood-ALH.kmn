@@ -1,0 +1,30 @@
+c c Version 0.1 - created O'odham (Alvarez-Hale) from scratch
+store(&VERSION) '9.0'
+store(&NAME) 'Oodham (Alvarez-Hale)'
+store(&COPYRIGHT) '© emj'
+store(&KEYBOARDVERSION) '0.1'
+store(&TARGETS) 'desktop'
+store(&BITMAP) 'ood-ALH.ico'
+
+
+begin Unicode > use(main)
+
+group(main) using keys
+
+c Use an asterisk for underdot
+'d' + '*' > 'ḍ'
+'D' + '*' > 'Ḍ'
+'s' + '*' > 'ṣ'
+'S' + '*' > 'Ṣ'
+
+c Use a following tilde for ñ
+'n' + '~' > 'ñ'
+'N' + '~' > 'Ñ'
+
+c Use > for ŋ
+'n' + '>' > 'ŋ'
+'N' + '>' > 'Ŋ'
+
+c Use a caret for breve
+'i' + '^' > 'ĭ'
+'I' + '^' > 'Ĭ'

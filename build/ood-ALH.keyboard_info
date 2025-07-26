@@ -1,0 +1,32 @@
+{
+  "id": "ood-ALH",
+  "name": "O'odham (Alvarez-Hale)",
+  "license": "mit",
+  "description": "<p>This keyboard is designed to allow quick typing of O&#39;odham in the Alvarez-Hale writing system.</p>",
+  "languages": {
+    "ood-Latn": {
+      "examples": [],
+      "languageName": "Tohono O’odham",
+      "scriptName": "Latin",
+      "displayName": "Tohono O’odham (Latin)"
+    }
+  },
+  "lastModifiedDate": "2025-07-24T04:05:34.366Z",
+  "packageFilename": "ood-ALH.kmp",
+  "packageFileSize": 1354,
+  "jsFilename": "ood-ALH.js",
+  "jsFileSize": 1081,
+  "packageIncludes": [],
+  "version": "0.1",
+  "encodings": [
+    "unicode"
+  ],
+  "platformSupport": {
+    "linux": "full",
+    "macos": "full",
+    "windows": "full",
+    "desktopWeb": "full"
+  },
+  "minKeymanVersion": "9.0",
+  "helpLink": "https://help.keyman.com/keyboard/ood-ALH"
+}

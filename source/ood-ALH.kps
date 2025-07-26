@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Package>
+  <Options>
+    <ReadMeFile>welcome\readme.htm</ReadMeFile>
+    <LicenseFile>..\LICENSE.md</LicenseFile>
+    <FollowKeyboardVersion/>
+  </Options>
+  <Info>
+    <Name>O'odham (Alvarez-Hale)</Name>
+    <Description>This keyboard is designed to allow quick typing of O'odham in the Alvarez-Hale writing system.</Description>
+  </Info>
+  <Files>
+    <File>
+      <Name>../build/ood-ALH.kmx</Name>
+    </File>
+  </Files>
+  <Keyboards>
+    <Keyboard>
+      <Name>O'odham (Alvarez-Hale)</Name>
+      <ID>ood-ALH</ID>
+      <Version>0.1</Version>
+      <Languages>
+        <Language ID="ood-Latn">O'odham (Alvarez-Hale)</Language>
+      </Languages>
+    </Keyboard>
+  </Keyboards>
+</Package>
+
