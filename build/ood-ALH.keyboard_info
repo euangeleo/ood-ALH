@@ -11,13 +11,13 @@
       "displayName": "Tohono O’odham (Latin)"
     }
   },
-  "lastModifiedDate": "2025-07-24T04:05:34.366Z",
+  "lastModifiedDate": "2025-07-26T00:07:55.000Z",
   "packageFilename": "ood-ALH.kmp",
-  "packageFileSize": 1354,
+  "packageFileSize": 1375,
   "jsFilename": "ood-ALH.js",
   "jsFileSize": 1081,
   "packageIncludes": [],
-  "version": "0.1",
+  "version": "0.2",
   "encodings": [
     "unicode"
   ],
